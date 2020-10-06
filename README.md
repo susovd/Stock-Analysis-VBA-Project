@@ -1,16 +1,9 @@
 <!---Project Logo -->
 <br />
 <p align="center">
-  <a href=>
-    <img src="Images/stockmarket.jpg">
-  </a>
-
-  <h3 align="center">World Demographic Trends 1950-2019</h3>
-  <p align="center">
-    A Data Visualisation Project
-    <br />
-</p>
-</p>
+  <img src="../Images/stockmarket.jpg">
+  <h3 align="center">Stock Market Analysis using VBA</h3>
+ </p>
 
 
 <!-- ABOUT THE PROJECT -->
