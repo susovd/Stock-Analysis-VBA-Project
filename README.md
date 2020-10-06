@@ -3,7 +3,7 @@
 <p align="center">
   <img src="../Images/stockmarket.jpg">
   <h3 align="center">Stock Market Analysis using VBA</h3>
- </p>
+</p>
 
 
 <!-- ABOUT THE PROJECT -->
