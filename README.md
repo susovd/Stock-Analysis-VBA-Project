@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href=>
-    <img src="../Images/stockmarket.jpg">
+    <img src="Images/stockmarket.jpg">
   </a>
 
   <h3 align="center">World Demographic Trends 1950-2019</h3>
